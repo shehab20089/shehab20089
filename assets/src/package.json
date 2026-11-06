@@ -1,0 +1,12 @@
+{
+  "name": "profile-readme-assets",
+  "private": true,
+  "type": "module",
+  "description": "Generates the SVG artwork used in the profile README. Run: npm install && npm run build",
+  "scripts": { "build": "node generate.mjs .." },
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.0.0",
+    "@fontsource/onest": "^5.0.0",
+    "opentype.js": "^2.0.0"
+  }
+}
