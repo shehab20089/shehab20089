@@ -51,13 +51,13 @@ const shehab = {
 ![03 Stack — The tools I ship with.](assets/section-stack-dark.svg#gh-dark-mode-only)
 
 **Frontend**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,graphql,vite&amp;theme=dark"><img alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, GraphQL, Vite" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,graphql,vite&amp;theme=light"></picture>
+<img alt="TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, GraphQL, Vite" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,graphql,vite&amp;theme=dark">
 
 **Backend & data**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,postgres,prisma,redis,docker&amp;theme=dark"><img alt="Node.js, NestJS, .NET, C#, PostgreSQL, Prisma, Redis, Docker" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,postgres,prisma,redis,docker&amp;theme=light"></picture>
+<img alt="Node.js, NestJS, .NET, C#, PostgreSQL, Prisma, Redis, Docker" src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,postgres,prisma,redis,docker&amp;theme=dark">
 
 **Tools, AI & games**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,figma,vercel,godot&amp;theme=dark"><img alt="Git, GitHub, GitHub Actions, Figma, Vercel, Godot" src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vercel,godot&amp;theme=light"></picture>
+<img alt="Git, GitHub, GitHub Actions, Figma, Vercel, Godot" src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vercel,godot&amp;theme=dark">
 
 Also: Claude Code, Codex and MCP servers · BullMQ · TanStack Query · Apollo · ABP / EF Core · Expo · i18n and full RTL
 
