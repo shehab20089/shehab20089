@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://shehab20089.github.io/"><img alt="Portfolio: shehab20089.github.io" src="https://img.shields.io/badge/Portfolio-shehab20089.github.io-2443F5?style=for-the-badge&amp;labelColor=111112"></a>
   <a href="https://www.linkedin.com/in/shehab-mohsen-6ba984168/"><img alt="LinkedIn: Shehab Mohsen" src="https://img.shields.io/badge/LinkedIn-Shehab_Mohsen-0A66C2?style=for-the-badge&amp;labelColor=111112"></a>
-  <a href="https://shehab20089.itch.io/the-last-abbasid"><img alt="Turath Studios on itch.io" src="https://img.shields.io/badge/Turath_Studios-itch.io-022C59?style=for-the-badge&amp;logo=itchdotio&amp;logoColor=white&amp;labelColor=111112"></a>
+  <a href="https://turathstudios.com/"><img alt="Turath Studios: turathstudios.com" src="https://img.shields.io/badge/Turath_Studios-turathstudios.com-022C59?style=for-the-badge&amp;labelColor=111112"></a>
 </p>
 
 <br>
@@ -66,13 +66,13 @@ Also: Claude Code, Codex and MCP servers · BullMQ · TanStack Query · Apollo �
 ![04 Turath Studios — Heritage, told through games and art.](assets/section-turath-light.svg#gh-light-mode-only)
 ![04 Turath Studios — Heritage, told through games and art.](assets/section-turath-dark.svg#gh-dark-mode-only)
 
-<a href="https://shehab20089.itch.io/the-last-abbasid"><img alt="The Last Abbasid (آخر العباسيين) — a warrior stands on the rooftops of Baghdad as the city burns in 1258." src="assets/the-last-abbasid.png" width="100%"></a>
+<a href="https://turathstudios.com/"><img alt="The Last Abbasid (آخر العباسيين) — a warrior stands on the rooftops of Baghdad as the city burns in 1258." src="assets/the-last-abbasid.png" width="100%"></a>
 
-Outside my day job I run **Turath Studios** (تراث), a studio bringing Islamic and Arab history, heritage and faith to people through games, animation and art.
+Outside my day job I run [**Turath Studios**](https://turathstudios.com/) (تراث), a studio bringing Islamic and Arab history, heritage and faith to people through games, animation and art.
 
 Our first game, **The Last Abbasid**, is a 2D pixel-art action game set in Baghdad in 1258, during the Mongol sack of the city. The Chapter I demo is out on itch.io in English and Arabic, and the full game is planned for Steam. I handle game design, architecture, art direction and release, in Godot 4 with automated gameplay tests. Turath Studios also builds websites for clients.
 
-[**Play the Chapter I demo →**](https://shehab20089.itch.io/the-last-abbasid) · [Turath Studios on LinkedIn](https://www.linkedin.com/company/turath-studios) · [Game source](https://github.com/shehab20089/the-last-abbasid-v2)
+[**turathstudios.com →**](https://turathstudios.com/) · [Play the Chapter I demo on itch.io](https://shehab20089.itch.io/the-last-abbasid) · [Turath Studios on LinkedIn](https://www.linkedin.com/company/turath-studios) · [Game source](https://github.com/shehab20089/the-last-abbasid-v2)
 
 <br>
 
@@ -94,7 +94,8 @@ Our first game, **The Last Abbasid**, is a 2D pixel-art action game set in Baghd
 <p align="center">
   <a href="https://shehab20089.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/shehab-mohsen-6ba984168/">LinkedIn</a> ·
-  <a href="https://shehab20089.itch.io/the-last-abbasid">The Last Abbasid</a>
+  <a href="https://turathstudios.com/">Turath Studios</a> ·
+  <a href="https://shehab20089.itch.io/the-last-abbasid">The Last Abbasid on itch.io</a>
 </p>
 
 <sub>The artwork in this README is generated from <a href="assets/src/generate.mjs"><code>assets/src/generate.mjs</code></a>.</sub>
